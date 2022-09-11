@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<img align="right" alt="Coding" width="100%" alt="Coding" height="200" src="https://i.pinimg.com/originals/7f/7f/28/7f7f2882899755a705a2953b6fcfc263.gif">
+<img align="right" alt="Coding" alt="Coding" height="200" src="https://media3.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif?cid=ecf05e4789i4lcaqrmpan315sb8tpntd7ix8r5rpvmpuwhpp&rid=giphy.gif&ct=g">
 
-- 
 - I’m currently working with **Gatsby, NextJS, ThreeJS**
 
 - 📫 How to reach me **krzysztof.podmokly@gmail.com**
