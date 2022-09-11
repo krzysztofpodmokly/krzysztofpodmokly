@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">aspiring to the role of threeJS master, frontend developer lvl 2</h3>
 <img align="right" alt="Coding" width="100%" alt="Coding" height="200" src="https://i.pinimg.com/originals/7f/7f/28/7f7f2882899755a705a2953b6fcfc263.gif">
 
 - 
