@@ -17,7 +17,3 @@
 ![Krzysztof's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=krzysztofpodmokly&show_icons=true&locale=en&layout=compact&theme=dark)
 
 ![Krzysztof's GitHub stats](https://github-readme-stats.vercel.app/api?username=krzysztofpodmokly&count_private=true&include_all_commits=true&hide=contribs,issues&show_icons=true&theme=dark)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krzysztofpodmokly&theme=dark)](https://git.io/streak-stats)
-
-
