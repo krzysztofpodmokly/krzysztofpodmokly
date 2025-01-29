@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <img align="right" alt="Coding" alt="Coding" height="200" src="https://media3.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif?cid=ecf05e4789i4lcaqrmpan315sb8tpntd7ix8r5rpvmpuwhpp&rid=giphy.gif&ct=g">
 
-Checkout My Portfolio Website!
+<div>
+  
+<p style="display:block">Checkout My Portfolio Website!</p>
 <a href="https://underwater-studio.vercel.app/" target="blank">
   <img
     align="center"
@@ -9,4 +11,6 @@ Checkout My Portfolio Website!
     alt="_underwater_studio_"
   />
 </a>
+</div>
+
 
