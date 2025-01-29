@@ -3,8 +3,9 @@
 
 <div>
   
-<p style="display:block">Checkout My Portfolio Website!</p>
+
 <a href="https://underwater-studio.vercel.app/" target="blank">
+  <p style="display:block">Checkout My Portfolio Website!</p>
   <img
     align="center"
     src="https://images.prismic.io/underwater-studio/Z5egtZbqstJ9946T_bubble-hero.png?auto=format%2Ccompress&h=186&dpr=1"
