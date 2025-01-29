@@ -7,8 +7,6 @@ Checkout My Portfolio Website!
     align="center"
     src="https://images.prismic.io/underwater-studio/Z5egtZbqstJ9946T_bubble-hero.png?auto=format%2Ccompress&h=186&dpr=1"
     alt="_underwater_studio_"
-    height="30"
-    width="40"
   />
 </a>
 
